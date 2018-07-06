@@ -1,0 +1,10 @@
+{
+  "environment": "prod",
+  "impala_host": "datanode09",
+  "impala_port": "25004",
+  "hdfs_NM1Host": "namenode01",
+  "hdfs_NM1_port": "8802",
+  "hdfs_NM2Host": "namenode02",
+  "hdfs_NM2_port": "8802",
+  "hdfs_nameservices": "nameservices1"
+}
